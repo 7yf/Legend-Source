@@ -4,7 +4,7 @@ LEGEND README.IML
 [![version](https://img.shields.io/badge/Release-1.0.0-green.svg)] 
 ![minecraft](https://img.shields.io/badge/Minecraft-b1.7.3-blue.svg)
                                                              
- Hi, this client was developed by Sh4e and this is the       
+ Hi, this client was developed by Sh4e and this is the        
  public source. This client was made public for the reason   
  of making it easier for newfags to get a client for B1.7.3   
  since salc1 made a review on the anarchy server             
