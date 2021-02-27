@@ -6,7 +6,7 @@ LEGEND README.IML
                                                              
  Hi, this client was developed by Sh4e and this is the       
  public source. This client was made public for the reason   
- of making it easier for newfags to get a client for B1.7.3  
+ of making it easier for newfags to get a client for B1.7.3   
  since salc1 made a review on the anarchy server             
  "2Beta2t.net:27015".                                        
                                                              
