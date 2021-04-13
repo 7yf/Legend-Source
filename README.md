@@ -1,10 +1,10 @@
 LEGEND README.IML
 
 [![discord](https://img.shields.io/badge/Discord-Legend-8080c0)](https://discord.gg/mvyBt5GkJX)
-[![version](https://img.shields.io/badge/Release-1.0.0-green.svg)] 
+![version](https://img.shields.io/badge/Release-1.0.0-green.svg)]
 ![minecraft](https://img.shields.io/badge/Minecraft-b1.7.3-blue.svg)
                                                              
- Hi, this client was developed by Sh4e and this is the        
+ this client was developed by Sh4e and this is the        
  public source. This client was made public for the reason   
  of making it easier for newfags to get a client for B1.7.3    
  since salc1 made a review on the anarchy server             
@@ -29,20 +29,20 @@ LEGEND README.IML
                                                              
        * GameHerobrin ( Alias Remasted )                     
                                                              
-       * Original Alias dev(s)                               
+       * Original Alias dev(s) (yes this is a paste cope more)                              
                                                              
                                                              
  Contact :                                                   
  - if you would like to contact me ( Sh4e ) send me a dm     
    on discord                                                
                                                              
-       * Shxe#9564                                           
+       * Shae#6184                                           
                                                              
  - you can also contact the currect owner on discord, you    
    can do this through the Legend discord or his dms         
                                                              
-       * percolating#6317                                    
+       * percolating#6317 (not sure if this is still correct)                                   
                                                              
                                                              
                                                              
-Made By Shxe!
+Legend owns you and all!
