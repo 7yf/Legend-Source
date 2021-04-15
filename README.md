@@ -45,8 +45,10 @@ LEGEND README.IML
 
 Contact Policy : 
 - If you find an issue with the cheat or you dont know how to install it, do not contact us because we give 0 fucks about it. If you can't install it's user error. That being said, we might help you on a good day. Just depends.
+- DO NOT CONTACT US ABOUT UPDATES. WE GIVE 0 FUCKS.
 
-Note: You really shouldn't use this cheat, it's ass. Use infinity or literary anything else.
+Note: You really shouldn't use this cheat, it's ass. Use infinity or literally anything else.
+
                                                              
                                                              
 Legend owns you and all!
